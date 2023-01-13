@@ -18,5 +18,3 @@ loop(State) ->    %kolkoto argumenta ima gore, tolkova trqbva da ima i dolu v lo
                         io:format("NewState: ~p ~n", [NewState])
         end,
     loop(NewState).
-
-%babatonka
