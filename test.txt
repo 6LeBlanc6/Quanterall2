@@ -1,0 +1,44 @@
+Script started on 2022-11-15 15:52:06+02:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="156" LINES="39"]
+]0;quanterall@quanterall-ThinkPad-T460s: ~[01;32mquanterall@quanterall-ThinkPad-T460s[00m:[01;34m~[00m$ ls
+[0m[01;34mDesktop[0m  [01;34mDocuments[0m  [01;34mDownloads[0m  [01;34mMusic[0m  [01;34mPictures[0m  [01;34mPublic[0m  [01;34mTemplates[0m  test.txt  [01;34mVideos[0m
+]0;quanterall@quanterall-ThinkPad-T460s: ~[01;32mquanterall@quanterall-ThinkPad-T460s[00m:[01;34m~[00m$ ls -lsa
+total 80
+4 drwxr-xr-x 16 quanterall quanterall 4096 ное 15 15:50 [0m[01;34m.[0m
+4 drwxr-xr-x  3 root       root       4096 сеп 21 09:12 [01;34m..[0m
+4 -rw-------  1 quanterall quanterall  168 ное 15 15:51 .bash_history
+4 -rw-r--r--  1 quanterall quanterall  220 сеп 21 09:12 .bash_logout
+4 -rw-r--r--  1 quanterall quanterall 3771 сеп 21 09:12 .bashrc
+4 drwx------ 14 quanterall quanterall 4096 ное 15 15:27 [01;34m.cache[0m
+4 drwx------ 11 quanterall quanterall 4096 сеп 21 09:26 [01;34m.config[0m
+4 drwxr-xr-x  2 quanterall quanterall 4096 сеп 21 09:24 [01;34mDesktop[0m
+4 drwxr-xr-x  2 quanterall quanterall 4096 сеп 21 09:24 [01;34mDocuments[0m
+4 drwxr-xr-x  2 quanterall quanterall 4096 ное 15 15:26 [01;34mDownloads[0m
+4 drwx------  3 quanterall quanterall 4096 ное 15 14:20 [01;34m.gnupg[0m
+4 drwxr-xr-x  3 quanterall quanterall 4096 сеп 21 09:24 [01;34m.local[0m
+4 drwx------  4 quanterall quanterall 4096 ное 14 20:41 [01;34m.mozilla[0m
+4 drwxr-xr-x  2 quanterall quanterall 4096 сеп 21 09:24 [01;34mMusic[0m
+4 drwxr-xr-x  2 quanterall quanterall 4096 сеп 21 09:24 [01;34mPictures[0m
+4 -rw-r--r--  1 quanterall quanterall  807 сеп 21 09:12 .profile
+4 drwxr-xr-x  2 quanterall quanterall 4096 сеп 21 09:24 [01;34mPublic[0m
+4 drwx------  2 quanterall quanterall 4096 сеп 21 09:25 [01;34m.ssh[0m
+0 -rw-r--r--  1 quanterall quanterall    0 сеп 21 09:25 .sudo_as_admin_successful
+4 drwxr-xr-x  2 quanterall quanterall 4096 сеп 21 09:24 [01;34mTemplates[0m
+0 -rw-rw-r--  1 quanterall quanterall    0 ное 15 15:52 test.txt
+4 drwxr-xr-x  2 quanterall quanterall 4096 сеп 21 09:24 [01;34mVideos[0m
+]0;quanterall@quanterall-ThinkPad-T460s: ~[01;32mquanterall@quanterall-ThinkPad-T460s[00m:[01;34m~[00m$ 
+]0;quanterall@quanterall-ThinkPad-T460s: ~[01;32mquanterall@quanterall-ThinkPad-T460s[00m:[01;34m~[00m$ 
+]0;quanterall@quanterall-ThinkPad-T460s: ~[01;32mquanterall@quanterall-ThinkPad-T460s[00m:[01;34m~[00m$ cd Templates/
+]0;quanterall@quanterall-ThinkPad-T460s: ~/Templates[01;32mquanterall@quanterall-ThinkPad-T460s[00m:[01;34m~/Templates[00m$ ls
+]0;quanterall@quanterall-ThinkPad-T460s: ~/Templates[01;32mquanterall@quanterall-ThinkPad-T460s[00m:[01;34m~/Templates[00m$ 
+]0;quanterall@quanterall-ThinkPad-T460s: ~/Templates[01;32mquanterall@quanterall-ThinkPad-T460s[00m:[01;34m~/Templates[00m$ 
+]0;quanterall@quanterall-ThinkPad-T460s: ~/Templates[01;32mquanterall@quanterall-ThinkPad-T460s[00m:[01;34m~/Templates[00m$ ls -lsa
+total 8
+4 drwxr-xr-x  2 quanterall quanterall 4096 сеп 21 09:24 [0m[01;34m.[0m
+4 drwxr-xr-x 16 quanterall quanterall 4096 ное 15 15:50 [01;34m..[0m
+]0;quanterall@quanterall-ThinkPad-T460s: ~/Templates[01;32mquanterall@quanterall-ThinkPad-T460s[00m:[01;34m~/Templates[00m$ 
+]0;quanterall@quanterall-ThinkPad-T460s: ~/Templates[01;32mquanterall@quanterall-ThinkPad-T460s[00m:[01;34m~/Templates[00m$ 
+]0;quanterall@quanterall-ThinkPad-T460s: ~/Templates[01;32mquanterall@quanterall-ThinkPad-T460s[00m:[01;34m~/Templates[00m$ cd ..
+]0;quanterall@quanterall-ThinkPad-T460s: ~[01;32mquanterall@quanterall-ThinkPad-T460s[00m:[01;34m~[00m$ exit
+exit
+
+Script done on 2022-11-15 15:52:38+02:00 [COMMAND_EXIT_CODE="0"]
